@@ -23,5 +23,6 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "rake"
   s.add_development_dependency "rspec"
+  s.add_development_dependency "dep-selector-libgecode"
   s.add_development_dependency "solve", "~> 0.8"
 end
